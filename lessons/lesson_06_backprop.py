@@ -1,0 +1,26 @@
+# Source code is private. This file shows only its classes and function signatures.
+
+"""
+Lesson 06 — Backpropagation
+
+The correction wave. Error flows right-to-left, assigning blame
+to every weight. The chain rule makes this possible.
+"""
+import time
+import math
+from utils.display import clear, header, subheader, scene, camera, say, animate, slow_lines, think, imagine, box, table, separator, press_enter, CYAN, YELLOW, GREEN, MAGENTA, BLUE, RED, BOLD, RESET, DIM, WHITE, BRIGHT_WHITE
+from utils.math_utils import sigmoid, sigmoid_deriv, mse_deriv
+W_H = ...
+B_H = ...
+W_O = ...
+B_O = ...
+TARGET = ...
+LR = ...
+
+
+def _forward():
+    ...
+
+
+def run():
+    ...
