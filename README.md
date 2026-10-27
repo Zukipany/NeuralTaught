@@ -5,7 +5,8 @@ Learn how neural networks work by watching one think.
 > [!NOTE]
 > **The source code of this project is private.** This repository is its public showcase: the
 > README, screenshots and every source file with its types and function signatures, but none of the
-> code inside them. If you'd like a demo or to talk about the project, open an issue.
+> code inside them. For a demo or access to the source code, email me at
+> [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 NeuralTaught teaches neural networks from first principles, starting with a single neuron and ending with full backpropagation. It comes in two forms:
 
